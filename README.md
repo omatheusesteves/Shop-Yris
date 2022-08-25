@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Shop-Yris" src="/imgs/designDesktop-ShopYris.png" width="100%">
+  <img alt="Shop-Yris" src="/imgs/designDesktop-ShopYris.png" width="500">
 </p>
 
 ## Site / Instagram
