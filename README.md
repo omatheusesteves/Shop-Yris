@@ -3,9 +3,13 @@
  🚧 Este Readme está em construção 🚧
 </h1>
 
+<p align="center">
+  <img alt="Shop-Yris" src="/imgs/designDesktop-ShopYris.png" width="100%">
+</p>
+
 ## Site / Instagram
-- [Shopyris.com](https://shopyris.com/)
-- [Instagram @shoppyris](https://www.instagram.com/shopyris/)
+- [shopyris.com](https://shopyris.com/)
+- [@shoppyris](https://www.instagram.com/shopyris/)
 
 <p align="center">Projeto Ecommerce desenvolvido com Wordpress, Elementor, JS, HTML e CSS.</p>
 
